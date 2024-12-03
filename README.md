@@ -1,4 +1,4 @@
-# anguage Model Review Analyzer
+# Language Model Review Analyzer
 
 This project automates the analysis of user reviews using the Phi 3.5 Mini language model. It processes input files containing review prompts, determines the sentiment of each comment (Positive, Neutral, or Negative), and saves the output to a file. The results are visualized in a bar chart comparing the sentiment distributions for different devices.
 
