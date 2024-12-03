@@ -4,11 +4,11 @@ This project automates the analysis of user reviews using the Phi 3.5 Mini langu
 
 # Features
 
-. Processes textual input using the Phi 3.5 Mini Instruct language model.
-. Automatically installs the required model if not already available.
-. Outputs sentiment classifications (Positive, Neutral, Negative) for each comment.
-. Tracks and counts sentiment types.
-. Generates a bar chart visualizing sentiment distribution across devices.
+* Processes textual input using the Phi 3.5 Mini Instruct language model.
+* Automatically installs the required model if not already available.
+* Outputs sentiment classifications (Positive, Neutral, Negative) for each comment.
+* Tracks and counts sentiment types.
+* Generates a bar chart visualizing sentiment distribution across devices.
 
 # Dependencies
 The program requires the following Python libraries:
