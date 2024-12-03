@@ -13,12 +13,12 @@ This project automates the analysis of user reviews using the Phi 3.5 Mini langu
 # Dependencies
 The program requires the following Python libraries:
 
-* - Pytorch
-* - transformers (from HuggingFace)
-* - matplotlib
+*  Pytorch
+*  transformers (from HuggingFace)
+*  matplotlib
 These dependencies can be installed via pip or Conda.
 
 # How to use
-* - To download the packages used for the project, use the given yaml file and use "pip install -r requirements.yaml". 
-* - The default settings on the program takes the outputs from Webscraper.py as the input files. To change the name or add more files, please check the Webscraper README for more details.
-* - Once the Webscraper program runs, the LanguageModel program will be ready to run. If more output files are made, make sure to create more objects at the bottom of the program.
+*  To download the packages used for the project, use the given yaml file and use "pip install -r requirements.yaml". 
+*  The default settings on the program takes the outputs from Webscraper.py as the input files. To change the name or add more files, please check the Webscraper README for more details.
+*  Once the Webscraper program runs, the LanguageModel program will be ready to run. If more output files are made, make sure to create more objects at the bottom of the program.
